@@ -1,2 +1,2 @@
 say-hello:
-	echo Hello, World!
+	python3 -m hello_world
